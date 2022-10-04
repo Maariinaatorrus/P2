@@ -2,4 +2,4 @@
 
 Recursos Gráficos
 
-https://maariinaatorrus.github.io/P2/
+https://maariinaatorrus.github.io/Recursos-Graficos/
